@@ -1,5 +1,5 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
- <o:MainFile HRef="../Baza.htm"/>
+ <o:MainFile HRef="../index.html"/>
  <o:File HRef="themedata.thmx"/>
  <o:File HRef="colorschememapping.xml"/>
  <o:File HRef="image001.png"/>
@@ -429,7 +429,7 @@
  <o:File HRef="image424.jpg"/>
  <o:File HRef="image425.png"/>
  <o:File HRef="image426.jpg"/>
- <o:File HRef="header.htm"/>
+ <o:File HRef="header.html"/>
  <o:File HRef="editdata.mso"/>
  <o:File HRef="filelist.xml"/>
 </xml>
